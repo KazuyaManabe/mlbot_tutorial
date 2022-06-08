@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import datetime
 import urllib.request
-from .utils import create_null_logger
+from utils import create_null_logger
 
 #%%
 def url_exists(url):
